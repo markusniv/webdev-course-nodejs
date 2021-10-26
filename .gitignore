@@ -105,3 +105,4 @@ dist
 
 # WebStorm
 .idea
+/week1/node/.idea/
