@@ -1,0 +1,26 @@
+{
+  "name": "webdev-node-express",
+  "version": "1.0.0",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markusniv/webdev-course-nodejs.git"
+  },
+  "author": "Markus Nivasalo <markus.nivasalo@metropolia.fi>",
+  "bugs": {
+    "url": "https://github.com/markusniv/webdev-course-nodejs/issues"
+  },
+  "homepage": "https://github.com/markusniv/webdev-course-nodejs#readme",
+  "description": "web development course exercises for node.js and express",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon ./script.js localhost 80"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "license": "ISC"
+}
